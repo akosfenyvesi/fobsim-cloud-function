@@ -1,0 +1,5 @@
+cryptography
+firebase_admin
+functions-framework==3.*
+requests
+rsa
